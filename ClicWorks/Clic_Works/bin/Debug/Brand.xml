@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<items>
+	<item1 name="Mobile Device">	
+		<iname>Apple</iname>
+		<iname>Samsung</iname>
+		<iname>Sony</iname>	
+		<iname>BlackBerry</iname>
+		<iname>Huawei</iname>
+		<iname>LG</iname>
+		<iname>Nokia</iname>
+		<iname>Motorola</iname>	
+	</item1>	
+	<item2 name="Monitor">
+		<mname>Asus</mname>
+		<mname>LG</mname>
+		<mname>AOC Monitors</mname>	
+		<mname>BenQ</mname>	
+		<mname>Samsung</mname>	
+		<mname>Acer</mname>
+		<mname>Sony</mname>
+		<mname>ViewSonic</mname>
+		<mname>Dell</mname>
+		<mname>HP</mname>
+		<mname>Eizo</mname>
+		<mname>Philips</mname>
+		<mname>Apple</mname>
+		<mname>Sharp</mname>
+		<mname>Liyama</mname>
+		<mname>NEC</mname>
+		<mname>Compaq</mname>
+	</item2>
+	<item3 name="Network Device">
+		<nname>Dell</nname>
+		<nname>HP</nname>
+		<nname>Juniper</nname>
+		<nname>CISCO</nname>
+		<nname>Palo Alto</nname>
+		<nname>Dell</nname>
+	</item3>
+	<item4 name="Peripheral Device">
+		<pname>HP</pname>
+		<pname>Canon</pname>
+		<pname>Epson</pname>
+		<pname>Brother</pname>
+		<pname>Lexmark</pname>
+		<pname>Dell</pname>
+		<pname>Kodak</pname>
+		<pname>Okidata</pname>
+		<pname>Panasonic</pname>
+		<pname>Samsung</pname>
+		<pname>Xerox</pname>
+
+	</item4>
+</items>
