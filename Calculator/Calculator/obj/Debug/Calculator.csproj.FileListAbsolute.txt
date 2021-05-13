@@ -1,9 +1,0 @@
-C:\Users\Owner\Documents\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Owner\Documents\C#\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Owner\Documents\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
-C:\Users\Owner\Documents\C#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache

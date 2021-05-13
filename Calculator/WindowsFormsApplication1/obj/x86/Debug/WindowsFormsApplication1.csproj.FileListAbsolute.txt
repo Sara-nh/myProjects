@@ -1,0 +1,99 @@
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.SpeechLib.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Deployment.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Drawing.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Windows.Forms.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Xml.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.micautLib.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.micautLib.dll
+C:\Users\123\Desktop\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.micautLib.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.SpeechLib.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Deployment.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Drawing.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Windows.Forms.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Xml.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.micautLib.dll
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Desk\project payega\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\Interop.micautLib.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Core.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Data.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Deployment.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Drawing.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Windows.Forms.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\System.Xml.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\bin\Debug\Interop.micautLib.dll
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\calculator-csharp-[www.prozhe.com]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Data.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Deployment.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Drawing.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\System.Xml.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\bin\Debug\Interop.micautLib.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\Interop.micautLib.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\calculator-csharp-[www.hamyarprojeh.ir]\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Data.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Deployment.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Drawing.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\System.Xml.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\bin\Debug\Interop.micautLib.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\Interop.micautLib.dll
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Owner\Downloads\calculator-csharp-www.hamyarprojeh.ir_\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
