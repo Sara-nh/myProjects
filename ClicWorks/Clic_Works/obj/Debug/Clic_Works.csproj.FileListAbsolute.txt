@@ -38,3 +38,17 @@ D:\clic_project\Clic_Works\Clic_Works\obj\Debug\Clic_Works.csproj.GenerateResour
 D:\clic_project\Clic_Works\Clic_Works\obj\Debug\Clic_Works.csproj.CopyComplete
 D:\clic_project\Clic_Works\Clic_Works\obj\Debug\Clic_Works.exe
 D:\clic_project\Clic_Works\Clic_Works\obj\Debug\Clic_Works.pdb
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\bin\Debug\Clic_Works.exe.config
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\bin\Debug\Clic_Works.exe
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\bin\Debug\Clic_Works.pdb
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\bin\Debug\MySql.Data.xml
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.FormLogin.resources
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.Form1.resources
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.Properties.Resources.resources
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.csproj.CopyComplete
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.exe
+C:\Users\Owner\Desktop\myProjects\ClicWorks\Clic_Works\obj\Debug\Clic_Works.pdb
