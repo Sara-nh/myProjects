@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xEEjZW8HxInE9tWu1rdoqHcRTGQeZzfuRRMqQzHTmaKCq35vz6CYjpsXyaC0vb68GkqrSumzHl4Bn3Py1+N3LA==",
+  "dgSpecHash": "Xj8XvbTllD0wziZXpuGQkB4fLLKlKW4AmXk1xDZig5BAiNsxvdiNiq4J1GRwomOoEV2EC19DZRuwntdlsinNBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\Spice.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\Spice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\5.0.0\\microsoft.aspnetcore.authentication.facebook.5.0.0.nupkg.sha512",

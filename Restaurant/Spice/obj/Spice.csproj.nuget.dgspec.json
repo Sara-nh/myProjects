@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\Spice.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\Spice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\Spice.csproj": {
+    "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\Spice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\Spice.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\Spice.csproj",
         "projectName": "Spice",
-        "projectPath": "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\Spice.csproj",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\Spice.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Documents\\.NetCore\\ASP.NET Core\\Spice\\Spice\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\myProjects\\Restaurant\\Spice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -110,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
